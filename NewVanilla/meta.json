@@ -4,31 +4,38 @@
   "versions": [
      {
         "id": "b1.3.0.1000",
-        "releasedAt": 1721174400000
+        "releasedAt": 1721174400000,
+        "updateType": "major"
             },
      {
         "id": "b1.3.0.2000",
-        "releasedAt": 1721779200000
+        "releasedAt": 1721779200000,
+        "updateType": "major"
             },
      {
         "id": "b1.3.0.3000",
-        "releasedAt": 1722211200000
+        "releasedAt": 1722211200000,
+        "updateType": "major"
             },
      {
         "id": "b1.3.0.3100",
-        "releasedAt": 1722384000000
+        "releasedAt": 1722384000000,
+        "updateType": "major"
             },
      {
         "id": "b1.3.0.4000",
-        "releasedAt": 1722470400000
+        "releasedAt": 1722470400000,
+        "updateType": "major"
             },
     {
         "id": "rp1.3.0.5000",
-        "releasedAt": 1722556800000
+        "releasedAt": 1722556800000,
+        "updateType": "major"
             },
     {
         "id": "rp1.3.0.6000",
-        "releasedAt": 1722643200000
+        "releasedAt": 1722643200000,
+        "updateType": "major"
             }
   ]
 }
