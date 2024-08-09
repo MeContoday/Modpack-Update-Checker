@@ -51,6 +51,16 @@
           }
         },
         "updateType": "major"
+            },
+    {
+        "id": "release_1.3.1",
+        "releasedAt": 1723161600000,
+        "promotions": {
+          "downloads": {
+            "curseforge": "https://mediafilez.forgecdn.net/files/5592/640/New%20Vanilla-rp1.3.0.6000.zip"
+          }
+        },
+        "updateType": "major"
             }
   ]
 }
