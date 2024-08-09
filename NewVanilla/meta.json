@@ -25,16 +25,31 @@
      {
         "id": "b1.3.0.4000",
         "releasedAt": 1722470400000,
+        "promotions": {
+          "downloads": {
+            "curseforge": "https://mediafilez.forgecdn.net/files/5586/732/New%20Vanilla-b1.3.0.4000.zip"
+          }
+        },
         "updateType": "major"
             },
     {
         "id": "rp1.3.0.5000",
         "releasedAt": 1722556800000,
+        "promotions": {
+          "downloads": {
+            "curseforge": "https://mediafilez.forgecdn.net/files/5589/36/New%20Vanilla-rp1.3.0.5000.zip"
+          }
+        },
         "updateType": "major"
             },
     {
         "id": "rp1.3.0.6000",
         "releasedAt": 1722643200000,
+        "promotions": {
+          "downloads": {
+            "curseforge": "https://mediafilez.forgecdn.net/files/5592/640/New%20Vanilla-rp1.3.0.6000.zip"
+          }
+        },
         "updateType": "major"
             }
   ]
