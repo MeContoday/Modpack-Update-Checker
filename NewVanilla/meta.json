@@ -71,16 +71,6 @@
           }
         },
         "updateType": "major"
-            },
-    {
-        "id": "b1.4.0.1000",
-        "releasedAt": 1723381200000,
-        "promotions": {
-          "downloads": {
-            "curseforge": "https://mediafilez.forgecdn.net/files/5618/142/New%20Vanilla%20The%20Second%20Generation-b1.4.0.1000.zip"
-          }
-        },
-        "updateType": "major"
             }
   ]
 }
