@@ -1,1 +1,26 @@
-
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+     {
+        "id": "b1.4.0.1000",
+        "releasedAt": 1722470400000,
+        "promotions": {
+          "downloads": {
+            "curseforge": "https://mediafilez.forgecdn.net/files/5636/795/New Vanilla The Second Generation-b1.4.0.1000（CurseForge）.zip"
+          }
+        },
+        "updateType": "major"
+            },
+    {
+        "id": "b2.0.0.1100",
+        "releasedAt": 1724068800000,
+        "promotions": {
+          "downloads": {
+            "curseforge": "https://mediafilez.forgecdn.net/files/5642/853/New Vanilla 2 b2.0.0.1100.zip"
+          }
+        },
+        "updateType": "major"
+            }
+  ]
+}
